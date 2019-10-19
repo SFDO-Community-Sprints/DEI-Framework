@@ -10,7 +10,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * Alexa Adams
 * Karen Fitton
 * Emma B-F
-* Tamika
+* Tamika Holman-Ricks
 
 
 For now our information can be found here
