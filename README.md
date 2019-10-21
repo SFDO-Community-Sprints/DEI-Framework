@@ -24,25 +24,29 @@ Please update this spreadsheet if you have connections in Atlanta https://bit.ly
 
 
 ### Project Vision (Your first task as a team)
-Let people know what the value and intended benefits of your project are. The most successful projects will have an extremely clear and well-articulated vision. Answer these questions before you start talking about solutions:
-* What is the big problem that your project is trying to solve?
-* Who will be using your project?
-* A year from now, how do you see people describing your project?
+We want to build a Diversity, Equality, Inclusive framework. There was clearly a lack of diversity in the room.  
 
-Use these questions to form a clear vision statement of 3-5 sentences (rough guideline). 
+* Who:
 
-Having trouble? Salesforce.org staff and your fellow sprinters are here to help! Use one of your table's request signs and/or post in the Quip Chat to seek help, and we'll pop by.
+People of color who are historically marginalized and are seeking a sustainable career in the Salesforce ecosystem.
+
+* What:
+To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
+
 
 
 ### Project Resources
-* Indicate if there are any existing Hub Ideas, or product Issues/Bugs that you're solving for. 
-* Where can we find additional information on your project? Ie. do you have supporting code in another Repo, do you have documentation in Google, your repo's Wiki, etc.? Be sure to include (or at least links to) all supporting material here. If it's not in your project Repo, it will get lost.
+
+Our notes and working documents can be found here:
+https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit
+
+
+
 
 ### Project Team Accomplishments
-What did the Project Team accomplished during the Sprint?
+We identified our target user then identified potential barriers for that person. Wethen identified outcomes and possible solutions. We decided that we will first focus on the Atlanta Sprint and based on our successess there build out a larger framework for other sprints and Salesforce events.
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
-Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br><br>
-* What is your project's Roadmap?
+Our team is continuing to meet to determine next steps. 
 
-**Important**: If you have specific asks to help move this project forward we would recommend that you list them here, but also create separate Issues for each and add the label of "help wanted". This is a well-worn best practice for projects living in GitHub.
+**Help Wanted**: We need help with connections in Atlanta. As mentioned, our first focus is the Atlanta Sprint. With that in mind, if you have any connections in Atlanta please update this spreadsheet https://bit.ly/2MqK1KM
