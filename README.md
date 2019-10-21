@@ -26,12 +26,9 @@ Please update this spreadsheet if you have connections in Atlanta https://bit.ly
 ### Project Vision (Your first task as a team)
 We want to build a Diversity, Equality, Inclusive framework. There was clearly a lack of diversity in the room.  
 
-* Who:
+* Who: People of color who are historically marginalized and are seeking a sustainable career in the Salesforce ecosystem.
 
-People of color who are historically marginalized and are seeking a sustainable career in the Salesforce ecosystem.
-
-* What:
-To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
+* What: To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
 
 
 
