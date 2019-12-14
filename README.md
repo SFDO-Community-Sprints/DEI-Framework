@@ -12,15 +12,27 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * Emma B-F
 * Tamika Holman-Ricks
 
+A group of customers and partners at the October 2019 Philly Open Source Community Sprint came together to discuss Diversity, Equity and Inclusion in the Salesforce.org ecosystem. Updates on our discussions and efforts will be posted here.
 
-For now our information can be found here
-https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit
+ 
+Q: Why was this being discussed at an Open Source Community Sprint? Aren't those events to improve products and documentation for nonprofit and education organizations?
+
+A: Correct, the primary purpose of an Open Source Community Sprint is to improve products. However, many of us have first-hand knowledge of the magic that ensues when mission-focused Trailblazers connect in person. The value produced beyond product improvement is substantial; notably due to the Salesforce.org Sprint team providing one of the safest and welcoming spaces in the ecosystem. Increasing the participation of historically marginalized Black and other Peoples of Color in the Salesforce.org ecosystem is key to people from these communities gaining sustainable careers, building critical interpersonal relationships, and influencing the product development road map.
+
+We created a V2MOM that can be found here: 
+https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit#
 
 ### What we need from community at this time ###
 Please update this spreadsheet if you have connections in Atlanta https://bit.ly/2MqK1KM
 
+Join us in the Power of Us Hub Diversity, Equity, and Inclusion (DEI) group
+https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei
+
 
 ###################################################################################################
+Initial notes from Sprint: 
+https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit
+
 
 
 ### Project Vision (Your first task as a team)
