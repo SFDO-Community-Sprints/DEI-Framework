@@ -47,6 +47,8 @@ We want to build a Diversity, Equality, Inclusive framework. There was clearly a
 *   Who: People of color who are historically marginalized and are seeking a sustainable career in the Salesforce ecosystem.
 *   What: To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
 
+You can find our V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
+
 ### 
 **Project Resources**
 
