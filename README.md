@@ -25,17 +25,6 @@ Q: Why was this being discussed at an Open Source Community Sprint? Aren't those
 
 A: Correct, the primary purpose of an Open Source Community Sprint is to improve products. However, many of us have first-hand knowledge of the magic that ensues when mission-focused Trailblazers connect in person. The value produced beyond product improvement is substantial; notably due to the Salesforce.org Sprint team providing one of the safest and welcoming spaces in the ecosystem. Increasing the participation of historically marginalized Black and other Peoples of Color in the Salesforce.org ecosystem is key to people from these communities gaining sustainable careers, building critical interpersonal relationships, and influencing the product development road map.
 
-We created a V2MOM that can be found here: [https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit#](https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit#)
-
-
-### 
-**What we need from community at this time**
-
-Please update [this spreadsheet ](https://bit.ly/2MqK1KM)if you have connections in Atlanta. Also please reach out to those connections and encourage them to come to the Atlanta Sprint or help us spread the word particularly with the target demographic.
-
-Join us in the Power of Us Hub Diversity, Equity, and Inclusion (DEI) group [https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
-
-
 ### 
 **Project Vision (Your first task as a team)**
 
@@ -47,6 +36,19 @@ We want to build a Diversity, Equality, Inclusive framework. There was clearly a
 *   What: To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
 
 You can find our V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
+
+We created a V2MOM that can be found here: [https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit#](https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit#)
+
+
+### 
+**What we need from community at this time**
+
+Please update [this spreadsheet ](https://bit.ly/2MqK1KM)if you have connections in Atlanta. Also please reach out to those connections and encourage them to come to the Atlanta Sprint or help us spread the word particularly with the target demographic.
+
+Join us in the Power of Us Hub Diversity, Equity, and Inclusion (DEI) group [https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
+
+
+
 
 ### 
 **Project Resources**
