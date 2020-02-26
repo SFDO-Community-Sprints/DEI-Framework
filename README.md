@@ -5,17 +5,16 @@ Org Impactful DEI Framework
 
 ### **Project Team**
 
-Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
-
-
-
+Current Project Members
 *   Brittany Daley
-*   Karene-Sean Hines
 *   Charise Van Liew
 *   Michael Camilleri
-*   Alexa Adams
 *   Karen Fitton
 *   Emma Bloksberg-Fireovid
+
+Contributing Members
+*   Karene-Sean Hines
+*   Alexa Adams
 *   Tamika Holman-Ricks
 *   Sarah Joseph
 *   Michael Kolodner
