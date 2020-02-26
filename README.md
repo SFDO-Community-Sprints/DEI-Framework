@@ -53,7 +53,7 @@ We want to build a Diversity, Equality, Inclusive framework. There was clearly a
 ### 
 **What we need from community at this time**
 
-**_Help Wanted: _**We need help with connections in Atlanta. As mentioned, our first focus is the Atlanta Sprint. If you have connections in Atlanta, particularly with our target demographic, please reach out to them and personally invite them to the Atlanta Sprint. And, please update this spreadsheet if you want us to help with the reach out or to follow-up with you  [https://bit.ly/2MqK1KM](https://bit.ly/2MqK1KM) 
+**_Help Wanted: _**We need help with connections in Atlanta. As mentioned, our first focus is the Atlanta Sprint. If you have connections in Atlanta, particularly with our target demographic, please reach out to them and personally invite them to the Atlanta Sprint. If you want us to help with the reach out or to follow-up with you please comment in the Power of Us Hub group (see below) or contact one of us directly.
 
 Join us in the Power of Us Hub Diversity, Equity, and Inclusion (DEI) group [https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
 
