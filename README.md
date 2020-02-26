@@ -41,22 +41,24 @@ We want to build a Diversity, Equality, Inclusive framework. There was clearly a
 
 * We created a V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
 
-* We have been working with the Salesforce Sprint Team (Cori, Jace, Judi). 
+* The Sprint team (Cori, Jace, Judi) have updated the Atlanta FAQ, specifically around the “Who Comes to the Sprint” and “How to Prepare for the Sprint” to be more inclusive and clear. 
 
 ### 
 **Current Work**
 
 * Increase the number of POC sprint attendees at the 2020 Sprints.  
 * Identify barriers to participation for our target audience. Those in attendance at the Philadelphia Sprint identified some. We'd like know the barriers from those who want to but can not attend. 
+* Work with the Sprint team and Mary Scotton (VP, Trailblazer Equality) to determine what is Sprint work and what is Trailblazer community work and the intersection of the two.
 
 
 ### 
 **What we need from community at this time**
 
-**_Help Wanted: _**We need help with connections in Atlanta. As mentioned, our first focus is the Atlanta Sprint. If you have connections in Atlanta, particularly with our target demographic, please reach out to them and personally invite them to the Atlanta Sprint. If you want us to help with the reach out or to follow-up with you please comment in the Power of Us Hub group (see below) or contact one of us directly.
+**Atlanta in March!** We need help with connections in Atlanta. As mentioned, our first focus is the Atlanta Sprint. If you have connections in Atlanta, particularly with our target demographic, please reach out to them and personally invite them to the Atlanta Sprint. If you want us to help with the reach out or to follow-up with you please comment in the Power of Us Hub group (see below) or contact one of us directly.
 
-Join us in the Power of Us Hub Diversity, Equity, and Inclusion (DEI) group [https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
+Join us in the **Power of Us Hub Diversity, Equity, and Inclusion (DEI) group** [https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
 
+**Austin and Seattle** These are the two other cities that will have Sprints in 2020. We need help in reaching out to our target demographic in these cities. Start early!
 
 
 
