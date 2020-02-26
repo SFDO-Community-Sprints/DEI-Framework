@@ -41,15 +41,24 @@ We want to build a Diversity, Equality, Inclusive framework. There was clearly a
 
 * We created a V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
 
-* The Sprint team (Cori, Jace, Judi) have updated the Atlanta FAQ, specifically around the “Who Comes to the Sprint” and “How to Prepare for the Sprint” to be more inclusive and clear. 
+* SFDO Sprint Team (Cori/Jace/Judi) has partnered with Mary Scotton, VP, Trailblazer Equality at Salesforce to act as a consultant for Community Sprint DEI efforts. Mary will be attending the Atlanta Sprint, and will be speaking to her Trailblazer Equality efforts on March 31st.
+
+* Updated https://biggerboat.quip.com/1JBYAPmVQ2Is “Who Attends a Sprint” section based on feedback from Mary. 
+* Updated https://biggerboat.quip.com/irl0AkvElRML to include Equality Trailhead Modules to encourage being a better Ally and understanding our own bias based on feedback from Mary. 
+* Updated Atlanta Registration (https://www.eventbrite.com/e/salesforceorg-open-source-community-sprint-atlanta-registration-86857542247) to reflect new language based on feedback from Mary. 
+* SFDO Sprint Team and Mary are working on an official statement to show that DEI is a priority, to include in docs - WIP
+* Working on contracting with an Atlanta restaurant venue for the main Sprint dinner that reflects our commitment to DEI. This is a WIP and all attempts will be made to select a local venue that reflects diversity in Atlanta. Continued efforts will be made for future Seattle and Austin venues during the contract process.
+* Emailed invitation to attend the Atlanta Sprint to all NGO and EDU Admins in Georgia, and all surrounding states within an approx. 10 hour drive radius (give or take). 
+
+
 
 ### 
 **Current Work**
 
 * Increase the number of POC sprint attendees at the 2020 Sprints.  
-* Identify barriers to participation for our target audience. Those in attendance at the Philadelphia Sprint identified some. We'd like know the barriers from those who want to but can not attend. 
-* Work with the Sprint team and Mary Scotton (VP, Trailblazer Equality) to determine what is Sprint work and what is Trailblazer community work and the intersection of the two.
-
+* Identify barriers to participation for our target audience. Those in attendance at the Philadelphia Sprint identified some. We'd like know the barriers from those who want to but can not attend. Possible post-Sprint survey in the Hub. 
+* Investigating if it would be possible to develop a system to use rental laptops for future Sprints should an attendee request one
+* Researching if hosting at least one day of a 2021 Sprint on a weekend would increase diverse registration. How does this impact family time on the weekend vs. balancing work/day care needs during a weekday?
 
 ### 
 **What we need from community at this time**
