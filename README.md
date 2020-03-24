@@ -19,18 +19,18 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 
 ### Past Project Team
 
-Full Name | Team Role
------------- | -------------
+Full Name | Team Role | Github username
+------------ | ------------- | -------------
 Brittany Daley | Project Leader
 Charise Van Liew | Project Leader
 Michael Camilleri | Project Leader
-Karen Fitton | Project Leader
-Emma Bloksberg-Fireovid | Project Leader
-Karene-Sean Hines | Contributor
-Alexa Adams | Contributor
+Karen Fitton | Project Leader | [karenfitton](https://github.com/karenfitton)
+Emma Bloksberg-Fireovid | Project Leader | [ebloks01](https://github.com/ebloks01)
+Karene-Sean Hines | Contributor | [KareneHines](https://github.com/KareneHines)
+Alexa Adams | Contributor | [alexasgotsaas](https://github.com/alexasgotsaas)
 Tamika Holman-Ricks | Contributor
 Sarah Joseph | Contributor
-Michael Kolodner | Contributor
+Michael Kolodner | Contributor | [mkolodner](https://github.com/mkolodner)
 
 ### History
 
