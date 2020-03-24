@@ -1,6 +1,3 @@
-#33 DEI-Framework
-Org Impactful DEI Framework
-
 ### Project Name
 Diversity, Equality, and Inclusion Framework
 
