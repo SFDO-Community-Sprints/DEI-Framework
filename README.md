@@ -19,7 +19,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 
 ### Past Project Team
 
-Full Name | Team Role | Github username
+Full Name | Team Role | Github Username
 ------------ | ------------- | -------------
 Brittany Daley | Project Leader
 Charise Van Liew | Project Leader
