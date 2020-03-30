@@ -61,8 +61,8 @@ What did the Project Team get done during the Sprint?
 * We identified our target user then identified potential barriers for that person. We then identified outcomes and possible solutions. We decided that we will first focus on the Atlanta Sprint and based on our successes there build out a larger framework for other sprints and Salesforce events.
 * We created a V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project or here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
 * SFDO Sprint Team (Cori/Jace/Judi) has partnered with Mary Scotton, VP, Trailblazer Equality at Salesforce to act as a consultant for Community Sprint DEI efforts. Mary will be attending the Atlanta Sprint, and will be speaking to her Trailblazer Equality efforts on March 31st.
-* Updated https://biggerboat.quip.com/1JBYAPmVQ2Is “Who Attends a Sprint” section based on feedback from Mary. 
-* Updated https://biggerboat.quip.com/irl0AkvElRML to include Equality Trailhead Modules to encourage being a better Ally and understanding our own bias based on feedback from Mary. 
+* Updated https://salesforce.quip.com/1JBYAPmVQ2Is “Who Attends a Sprint” section based on feedback from Mary. 
+* Updated https://salesforce.quip.com/irl0AkvElRML to include Equality Trailhead Modules to encourage being a better Ally and understanding our own bias based on feedback from Mary. 
 * Updated Atlanta Registration (https://www.eventbrite.com/e/salesforceorg-open-source-community-sprint-atlanta-registration-86857542247) to reflect new language based on feedback from Mary. 
 * SFDO Sprint Team and Mary are working on an official statement to show that DEI is a priority, to include in docs - WIP
 * Working on contracting with an Atlanta restaurant venue for the main Sprint dinner that reflects our commitment to DEI. This is a WIP and all attempts will be made to select a local venue that reflects diversity in Atlanta. Continued efforts will be made for future Seattle and Austin venues during the contract process.
