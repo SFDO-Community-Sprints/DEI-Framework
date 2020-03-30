@@ -2,10 +2,10 @@
 Diversity, Equality, and Inclusion Framework
 
 ### Project Theme
-How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
+The DEI project is focused on increasing the diversity, equality and inclusion in the community.
 
 ### Project Vertical
-How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
+This project is for all verticals. Everyone is included!
 
 ### Hub Group Link
 https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei
@@ -13,8 +13,8 @@ https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-incl
 ### Current Project Team
 
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): 
-* GitHub Scribe(s): 
+* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Karen Fitton
+* GitHub Scribe(s): Karen Fitton
 * List of all Contributors:
 
 ### Past Project Team
