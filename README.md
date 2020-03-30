@@ -47,8 +47,11 @@ We want to build a Diversity, Equality, Inclusive framework. There was clearly a
 *   Who: People of color who are historically marginalized and are seeking a sustainable career in the Salesforce ecosystem.
 *   What: To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
 
-### Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)
-Our notes and working documents can be found here: [https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit](https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit)
+### Project Resources 
+Our notes and working documents can be found here: https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project
+
+old notes are here:
+[https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit](https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit)
 
 ### Current Project Team Accomplishments
 What did the Project Team get done during the Sprint?
@@ -56,7 +59,7 @@ What did the Project Team get done during the Sprint?
 ### Project Team Accomplishments (YTD)
 
 * We identified our target user then identified potential barriers for that person. We then identified outcomes and possible solutions. We decided that we will first focus on the Atlanta Sprint and based on our successes there build out a larger framework for other sprints and Salesforce events.
-* We created a V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
+* We created a V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project or here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
 * SFDO Sprint Team (Cori/Jace/Judi) has partnered with Mary Scotton, VP, Trailblazer Equality at Salesforce to act as a consultant for Community Sprint DEI efforts. Mary will be attending the Atlanta Sprint, and will be speaking to her Trailblazer Equality efforts on March 31st.
 * Updated https://biggerboat.quip.com/1JBYAPmVQ2Is “Who Attends a Sprint” section based on feedback from Mary. 
 * Updated https://biggerboat.quip.com/irl0AkvElRML to include Equality Trailhead Modules to encourage being a better Ally and understanding our own bias based on feedback from Mary. 
