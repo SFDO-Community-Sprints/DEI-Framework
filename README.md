@@ -13,9 +13,16 @@ https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-incl
 ### Current Project Team
 
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Karen Fitton
+* Team Leader(s): Brittany Daley
 * GitHub Scribe(s): Karen Fitton
 * List of all Contributors:
+    Emma Bloksberg-Fireovid
+    Karen Fitton
+    Michael Kolodner
+    Elizabeth Snow
+    Katherine Mitchell
+    Mary Scotton
+    Melissa Hill Dees
 
 ### Past Project Team
 
@@ -54,7 +61,7 @@ old notes are here:
 [https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit](https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit)
 
 ### Current Project Team Accomplishments
-What did the Project Team get done during the Sprint?
+The project team is working on a survey for all Atlanta Virtual Sprinters to complete to give us information.
 
 ### Project Team Accomplishments (YTD)
 
