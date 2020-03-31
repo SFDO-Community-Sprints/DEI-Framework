@@ -2,7 +2,7 @@
 Diversity, Equality, and Inclusion Framework
 
 ### Project Theme
-The DEI project is focused on increasing the diversity, equality and inclusion in the community.
+The DEI project is focused on increasing the diversity, equality and inclusion at the Sprints.
 
 ### Project Vertical
 This project is for all verticals. Everyone is included!
@@ -61,7 +61,7 @@ old notes are here:
 [https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit](https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit)
 
 ### Current Project Team Accomplishments
-The project team is working on a survey for all Atlanta Virtual Sprinters to complete to give us information.
+The project team is working on a survey for all Atlanta Virtual Sprinters to complete to give us information to inform our next steps. 
 
 ### Project Team Accomplishments (YTD)
 
@@ -85,6 +85,4 @@ Often, it takes multiple Sprints to contribute an idea back into the Community. 
 
 * What types of team roles does this project require? This gives you a way to tell future volunteers what kinds of tasks you need help with to complete this project. For example: Do you need a developer, documentation writer, qa tester, thought-leader, general volunteers, etc.
 
-**Atlanta in March!** We need help with connections in Atlanta. As mentioned, our first focus is the Atlanta Sprint. If you have connections in Atlanta, particularly with our target demographic, please reach out to them and personally invite them to the Atlanta Sprint. If you want us to help with the reach out or to follow-up with you please comment in the Power of Us Hub group (see below) or contact one of us directly.
-
-**Austin and Seattle** These are the two other cities that will have Sprints in 2020. We need help in reaching out to our target demographic in these cities. Start early!
+**Austin and Seattle** These are the two other cities that will have Sprints in 2020. We need help in reaching out to our target demographic in these cities. Start early! If you have connections in Seattle or Austin, particularly with our target demographic, please reach out to them and personally invite them to the Seattle and Austin Sprints. If you want us to help with the reach out or to follow-up with you please comment in the Power of Us Hub group or contact one of us directly.
