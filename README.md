@@ -61,7 +61,7 @@ old notes are here:
 [https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit](https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit)
 
 ### Current Project Team Accomplishments
-The project team is working on a survey for all Atlanta Virtual Sprinters to complete to give us information to inform our next steps. 
+The project team developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Sprint Team will use this information to make recommendations about marketing and programming for future Sprints. Your participation is greatly appreciated. https://docs.google.com/forms/d/e/1FAIpQLSdbmuin4-Tj-KL4gAjECFQzRrIeKe-QZLbbCTZsH37L0y9HcQ/viewform
 
 ### Project Team Accomplishments (YTD)
 
