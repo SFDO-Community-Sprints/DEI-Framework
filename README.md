@@ -19,7 +19,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
 
 ### Past Project Team Members
 
-Full Name               | Team Role      | Github Username | Sprint
+Full Name               | Team Role      | Github Username | Sprint(s)
 ------------            | -------------  | ------------- | -------------
 Brittany Daley          | Project Leader | [brittanydaley87](https://github.com/brittanydaley87) |Philadelphia 2019
 Charise Van Liew        | Project Leader | [Charise](https://github.com/charise)                 | Philadelphia 2019
