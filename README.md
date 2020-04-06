@@ -15,29 +15,22 @@ https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-incl
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
 * Team Leader(s): Brittany Daley
 * GitHub Scribe(s): Karen Fitton
-* List of all Contributors:
-    Emma Bloksberg-Fireovid
-    Karen Fitton
-    Michael Kolodner
-    Elizabeth Snow
-    Katherine Mitchell
-    Mary Scotton
-    Melissa Hill Dees
+* List of all Contributors: Emma Bloksberg-Fireovid, Karen Fitton, Michael Kolodner, Elizabeth Snow, Katherine Mitchell, Mary Scotton, Melissa Hill Dees
 
-### Past Project Team
+### Past Project Team Members
 
-Full Name | Team Role | Github Username
------------- | ------------- | -------------
-Brittany Daley | Project Leader
-Charise Van Liew | Project Leader
-Michael Camilleri | Project Leader
-Karen Fitton | Project Leader | [karenfitton](https://github.com/karenfitton)
-Emma Bloksberg-Fireovid | Project Leader | [ebloks01](https://github.com/ebloks01)
-Karene-Sean Hines | Contributor | [KareneHines](https://github.com/KareneHines)
-Alexa Adams | Contributor | [alexasgotsaas](https://github.com/alexasgotsaas)
-Tamika Holman-Ricks | Contributor
-Sarah Joseph | Contributor
-Michael Kolodner | Contributor | [mkolodner](https://github.com/mkolodner)
+Full Name               | Team Role      | Github Username | Sprint
+------------            | -------------  | ------------- | -------------
+Brittany Daley          | Project Leader | [brittanydaley87](https://github.com/brittanydaley87) |Philadelphia 2019
+Charise Van Liew        | Project Leader | [Charise](https://github.com/charise)                 | Philadelphia 2019
+Michael Camilleri       | Project Leader | [mgcamilleri](https://github.com/mgcamilleri)         | Philadelphia 2019
+Karen Fitton            | Project Leader | [karenfitton](https://github.com/karenfitton)         | Philadelphia 2019
+Emma Bloksberg-Fireovid | Project Leader | [ebloks01](https://github.com/ebloks01)               | Philadelphia 2019
+Karene-Sean Hines       | Contributor    | [KareneHines](https://github.com/KareneHines)         | Philadelphia 2019
+Alexa Adams             | Contributor    | [alexasgotsaas](https://github.com/alexasgotsaas)     | Philadelphia 2019
+Tamika Holman-Ricks     | Contributor    | [Brownsuga417](https://github.com/Brownsuga417)       | Philadelphia 2019
+Sarah Joseph            | Contributor    | TBD                                                   | Philadelphia 2019
+Michael Kolodner        | Contributor    | [mkolodner](https://github.com/mkolodner)             | Philadelphia 2019
 
 ### History
 
