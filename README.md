@@ -58,12 +58,36 @@ old notes are here:
 
 
 ### Project Team Accomplishments (YTD)
-* Developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Sprint Team will use this information to make recommendations about marketing and programming for future Sprints.  https://docs.google.com/forms/d/e/1FAIpQLSdbmuin4-Tj-KL4gAjECFQzRrIeKe-QZLbbCTZsH37L0y9HcQ/viewform
+When the DEI team formed in 2019, we set out to make Sprint events more diverse and inclusive spaces where talented and driven individuals could thrive regardless of socio-economic background. The urgency of the current moment means it’s all of our responsibility to examine all aspects of our personal and professional lives, including here within the Open Source Commons Community.
+
+We understand that our diversity strengthens us. When people can fully be themselves, reflecting individual and collective experiences, backgrounds, characteristics, and influences, we all benefit. Diversity, Equity and Inclusion work is long term social change work, and it’s first step is understanding what is the current reality and what challenges need our attention now.
+
+During the March 2020 Virtual Sprint, the Diversity, Equity, and Inclusion (DEI) Sprint Team developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Team has collated the results to make recommendations to the Salesforce.org Open Source Commons Team on how to increase diverse, equitable, and inclusive participation in Sprints moving forward. 
+
+You can see the full report here DEI Sprint Team Project Update  https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view
+
+Key Takeaways
+
+1) Black Sprint participants did not feel represented.
+2) Once Black participants were engaged in the Sprint, their experience tracked similarly to the whole group: positively.
+3) There was a significant lack of participants who identify as LGBTQ+ and non-binary, non-gender confirming.
+4) Sprint participants were overwhelmingly white and female with 32% of participants identifying as straight, white women. 
+
+Based on these data-back takeaways, we recommend the following:
+
+Our findings show that the most effective ways to increase diverse, equitable, and inclusive participation in Sprints are to:
+
+1) Increase the number of diverse participants at the Sprint
+2) Equip and empower diverse participants to get the most out of the Sprint.
+
+We commend the Salesforce.org Open Source Commons Team for the intention and execution of creating a welcoming and inclusive Virtual Sprint, and we look forward to these recommendations being implemented in future Sprints. Thank you!
+
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 
-We will be sending out a survey to those who didn't attend a Sprint and would like as much participation as possible. Watch this space or the Power of Us for the survey and please complete it. 
+In the coming weeks, the Sprint DEI team will be hosting a mini one day sprint devoted to our DEI efforts.
+If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
 For future Virtual Sprints, please encourage participation especially to our target population. We are learning that personal invitations are one of the top ways people decide to attend a Sprint. So invite!
 
-**Austin** This is the next in-person Sprint in 2020. We need help in reaching out to our target demographic in Austiin. Start early! If you have connections in Austin, particularly with our target demographic, please reach out to them and personally invite them to the Seattle and Austin Sprints. If you want us to help with the reach out or to follow-up with you please comment in the Power of Us Hub group or contact one of us directly.
+
