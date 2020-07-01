@@ -85,9 +85,34 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 
-In the coming weeks, the Sprint DEI team will be hosting a mini one day sprint devoted to our DEI efforts.
+On July 31, 2020 the Sprint DEI team will be hosting a mini one day sprint devoted to our DEI efforts.
 If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
-For future Virtual Sprints, please encourage participation especially to our target population. We are learning that personal invitations are one of the top ways people decide to attend a Sprint. So invite!
+Draft Agenda:
+
+*Aligning and Amplifying our work with other organizations and partners pursuing DEI efforts within the Ecosystem*
+* Convening with other groups leading similar DEI efforts
+* Understanding where work overlaps and where we can aid one another to achieve shared goals
+
+*Surveys and Metrics*
+* Finalize standing post sprint DEI survey
+* Larger survey to send to a broader audience to understand why underrepresented groups are not attending the sprint
+* Identifying other metrics should we be gathering 
+
+*Helping Sprint plan inclusive programming for upcoming Sprints*
+* What DEI related action items does the Sprint planning team need help with and how can this group help them
+
+*International Based Sprints and Sprinters*
+* How do we ensure that international Sprinters have a positive and inclusive experience
+- There will most likely be an increase in attendance of people based in South Asia. What proactive steps does Salesforce need to take to make South Asian Sprinters feel welcomed and included? What social dynamics should the Sprint planning team and Salesforce be aware of?
+* What countries outside of the US should we pilot and international-based Sprint and how do we empower international local-based leaders to lead within there own contexts
+
+*Accountability*
+* What changes are we trying to achieve within the Salesforce ecosystem
+* How can this group effectively lobby  Salesforce to change its practices
+* What metrics are we going to hold Salesforce accountable for?
+* What does Salesforce accountability to this group look like?
+
+
 
 
