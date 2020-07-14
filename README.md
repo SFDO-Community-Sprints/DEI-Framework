@@ -1,8 +1,8 @@
 ### Project Name
-Diversity, Equality, and Inclusion Framework
+Diversity, Equity, and Inclusion Framework
 
 ### Project Theme
-The DEI project is focused on increasing the diversity, equality and inclusion at the Sprints.
+The DEI project is focused on increasing the diversity, equity and inclusion at the Sprints.
 
 ### Project Vertical
 This project is for all verticals. Everyone is included!
