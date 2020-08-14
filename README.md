@@ -73,6 +73,7 @@ Sub-group leader: Emma Bloksberg-Fireovid
 What’s working in the space? What’s not working? Where is our greatest opportunity for impact?  The main pain points we identified were around people getting into hiring pipelines. They’ve skilled up and have some experience but  they’re still not getting that first job.   Employers are struggling without a model and need a blueprint. 
 
 Next steps include mapping out existing DEI groups and convening those leaders and critical actors in positions of influence to build bridges between organizations. 
+
 2. Eco-wide Surveys
 Sub-group leader: Charise Van Liew
 
@@ -87,6 +88,7 @@ Sub-group leader: Melissa Hill Dees
 The 2020 Sprint Planning team was tasked with DEI related action items for the Sprint planning team to create inclusive programming for upcoming Sprints. The first task in inclusion is to provide a safe environment for diversity to thrive and the code of conduct for Sprints is an important part. Our sub-group researched and drafted the initial version of the code of conduct for upcoming Sprints.
 
 Next steps include a review of the code of conduct by the #SFDOSprint team and including this code of conduct in registration steps for upcoming Sprints. 
+
 4. International Sprint Programming
 Sub-group leader: Akash Mishra
 
