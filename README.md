@@ -13,9 +13,10 @@ https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-incl
 ### Current Project Team
 
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): Brittany Daley
+* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra
 * GitHub Scribe(s): Karen Fitton
-* List of all Contributors: Emma Bloksberg-Fireovid, Karen Fitton, Michael Kolodner, Elizabeth Snow, Katherine Mitchell, Mary Scotton, Melissa Hill Dees
+* List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra
+
 
 ### Past Project Team Members
 
@@ -56,6 +57,13 @@ old notes are here:
 
 ### Current Project Team Accomplishments
 
+On July 20,2020 the DEI team completed a mini-sprint.  The following sub-group were part of this sprint
+
+Eco-wide Coalition
+Eco-wide Surveys and Metrics
+2020 Sprint Planning
+International Sprint Programming
+
 
 ### Project Team Accomplishments (YTD)
 When the DEI team formed in 2019, we set out to make Sprint events more diverse and inclusive spaces where talented and driven individuals could thrive regardless of socio-economic background. The urgency of the current moment means it’s all of our responsibility to examine all aspects of our personal and professional lives, including here within the Open Source Commons Community.
@@ -85,33 +93,11 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 
-On July 31, 2020 the Sprint DEI team will be hosting a mini one day sprint devoted to our DEI efforts.
+DEI will be part of the Open Source Sprint on September 23 and 24,2020
+We will also be hosting another mini-sprint on October 23,2020
 If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
-Draft Agenda:
 
-*Aligning and Amplifying our work with other organizations and partners pursuing DEI efforts within the Ecosystem*
-* Convening with other groups leading similar DEI efforts
-* Understanding where work overlaps and where we can aid one another to achieve shared goals
-
-*Surveys and Metrics*
-* Finalize standing post sprint DEI survey
-* Larger survey to send to a broader audience to understand why underrepresented groups are not attending the sprint
-* Identifying other metrics should we be gathering 
-
-*Helping Sprint plan inclusive programming for upcoming Sprints*
-* What DEI related action items does the Sprint planning team need help with and how can this group help them
-
-*International Based Sprints and Sprinters*
-* How do we ensure that international Sprinters have a positive and inclusive experience
-- There will most likely be an increase in attendance of people based in South Asia. What proactive steps does Salesforce need to take to make South Asian Sprinters feel welcomed and included? What social dynamics should the Sprint planning team and Salesforce be aware of?
-* What countries outside of the US should we pilot and international-based Sprint and how do we empower international local-based leaders to lead within there own contexts
-
-*Accountability*
-* What changes are we trying to achieve within the Salesforce ecosystem
-* How can this group effectively lobby  Salesforce to change its practices
-* What metrics are we going to hold Salesforce accountable for?
-* What does Salesforce accountability to this group look like?
 
 
 
