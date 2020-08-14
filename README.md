@@ -35,11 +35,9 @@ Michael Kolodner        | Contributor    | [mkolodner](https://github.com/mkolod
 
 ### History
 
-A group of customers and partners at the October 2019 Philly Open Source Community Sprint came together to discuss Diversity, Equity and Inclusion in the Salesforce.org ecosystem. Updates on our discussions and efforts will be posted here.
+After noticing a lack of diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
 
-Q: Why was this being discussed at an Open Source Community Sprint? Aren't those events to improve products and documentation for nonprofit and education organizations?
 
-A: Correct, the primary purpose of an Open Source Community Sprint is to improve products. However, many of us have first-hand knowledge of the magic that ensues when mission-focused Trailblazers connect in person. The value produced beyond product improvement is substantial; notably due to the Salesforce.org Sprint team providing one of the safest and welcoming spaces in the ecosystem. Increasing the participation of historically marginalized Black and other Peoples of Color in the Salesforce.org ecosystem is key to people from these communities gaining sustainable careers, building critical interpersonal relationships, and influencing the product development road map.
 
 ### Project Vision
 
@@ -57,12 +55,50 @@ old notes are here:
 
 ### Current Project Team Accomplishments
 
-On July 20,2020 the DEI team completed a mini-sprint.  The following sub-group were part of this sprint
+On July 20,2020 the DEI team completed a mini-sprint.
+The DEI Team fundamentally believes that Diversity, Equity, and Inclusion strengthen our community. To ensure that participants had an inclusive experience and that the work produced was impactful, we designed the DEI Mini-Sprint around the four main themes:
 
-Eco-wide Coalition
-Eco-wide Surveys and Metrics
-2020 Sprint Planning
-International Sprint Programming
+Intentional transformation: Intentionally transforming the Sprint event into a space where anyone can show up as their fully authentic selves and thrive regardless of their socio-economic status.
+Reimagining what a Sprint project looks like: While most Sprint projects focus on the NPSP and EDA products this project is focused on how we can use the Sprint event to organize Salesforce and its external customers, partners, and consultants to serve the needs of marginalized groups within the Salesforce ecosystem.
+Meeting the demands of the current moment: We all have a part to play in building a more equitable and inclusive society. The DEI team decided to use the mini-sprint as a space where impacted communities and allies can work together to develop and actualize solutions that will lead to a more diverse, equitable, and inclusive Salesforce ecosystem.
+Grounding in Compassion: Understanding that marginalized communities are more impacted by this moment we need to understand their needs so they can feel supported.
+Responding to the Current Moment
+
+The combination of the COVID-19 pandemic and the murder of George Floyd exposed the deadly consequences of global systemic racial inequality. From impacted communities reeling from generational trauma to allies feeling overwhelmed and unsure how to respond, the summer of 2020 has been a difficult time for everyone. Responding to the “Current Moment” with Equity and Compassion, the team designed our solutions by centering the needs of historically underserved and marginalized populations and identifying methods that could achieve maximum positive impact with the resources available to us.
+
+During the mini-Sprint, 30+ participants broke up into four different working groups to collaborate on the solutions identified by the DEI team:
+1. Eco-wide Coalition Building 
+Sub-group leader: Emma Bloksberg-Fireovid 
+
+What’s working in the space? What’s not working? Where is our greatest opportunity for impact?  The main pain points we identified were around people getting into hiring pipelines. They’ve skilled up and have some experience but  they’re still not getting that first job.   Employers are struggling without a model and need a blueprint. 
+
+Next steps include mapping out existing DEI groups and convening those leaders and critical actors in positions of influence to build bridges between organizations. 
+2. Eco-wide Surveys
+Sub-group leader: Charise Van Liew
+
+In order to launch a successful DEI initiative one must understand the current context and experiences of underrepresented groups. This sub-group drafted a survey for the Partner Summit to understand the demographic make up of Salesforce.org Partner organizations. We also discussed next steps for a standing post-Sprint DEI survey. 
+
+Immediate next steps are to finalize and distribute the partner survey. Following the distribution of the partner survey, this group will develop a survey for a broader audience (including outside of the Power of Us Hub) to understand the barriers to underrepresented groups attending the Sprint.
+
+
+3. 2020 Sprint Planning:
+Sub-group leader: Melissa Hill Dees 
+
+The 2020 Sprint Planning team was tasked with DEI related action items for the Sprint planning team to create inclusive programming for upcoming Sprints. The first task in inclusion is to provide a safe environment for diversity to thrive and the code of conduct for Sprints is an important part. Our sub-group researched and drafted the initial version of the code of conduct for upcoming Sprints.
+
+Next steps include a review of the code of conduct by the #SFDOSprint team and including this code of conduct in registration steps for upcoming Sprints. 
+4. International Sprint Programming
+Sub-group leader: Akash Mishra
+
+Having a voice is important but what matters the most is your voice be heard. Voices are each unique, revealing, and central to your ability to lead change in the world. The prime focus of this group is to ensure that the unheard voice of international sprinters is heard and to help people coming from under-represented regions, like APAC, to feel welcomed at the International sprints. With the Sprint event going completely virtual in 2020, it has a potential opportunity to attract a larger global audience; therefore, this group is inclined to bring up ideas and outline various hurdles international sprinters may face in joining a sprint and how to ensure the international sprinters at the US based sprints feels included. 
+Start with a similar Sprint structure in the Asian Community, e.g., India, but with a small number of attendees initially.
+Motivate local leaders in the Asian Community to be a bridge to increase participation and help build a strong nonprofit ecosystems in their regions supporting Sprint participation.
+Continue to identify challenges faced by international sprinters and enact measures to ensure more participation from them
+Surface considerations to host an International Sprint outside of US
+Draft the survey questions for reaching out to International/Indian Community around participation in a small-sized sprint
+Set the overall expectations and accountability 
+Note societal contexts and privileges awareness for Salesforce.org when planning international centered Sprints
+
 
 
 ### Project Team Accomplishments (YTD)
