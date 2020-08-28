@@ -10,7 +10,7 @@ This project is for all verticals. Everyone is included!
 
 After noticing a lack of diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
 
-[Roadmap of work in 2019] (wiki/Roadmmmap 2019)
+[Roadmap of work in 2019] (wiki/Roadmmap 2019)
 
 
 ### Project Vision
