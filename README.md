@@ -19,7 +19,7 @@ The DEI Team fundamentally believes that Diversity, Equity, and Inclusion streng
 
 We understand that our diversity strengthens us. When people can fully be themselves, reflecting individual and collective experiences, backgrounds, characteristics, and influences, we all benefit
 
-Our V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project or here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
+Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project)
 
 
 
@@ -28,7 +28,7 @@ Diversity, Equity and Inclusion work is long term social change work, and it’s
 
 During the March 2020 Virtual Sprint, the Diversity, Equity, and Inclusion (DEI) Sprint Team developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Team has collated the results to make recommendations to the Salesforce.org Open Source Commons Team on how to increase diverse, equitable, and inclusive participation in Sprints moving forward. 
 
-You can see the full report here DEI Sprint Team Project Update  https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view
+[Complete DEI Sprint Team Project Updates](https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view)
 
 #### Key Takeaways
 
@@ -58,6 +58,7 @@ The DEI Mini-Sprint was designed around four main themes:
 Responding to the Current Moment
 
 During the mini-Sprint, 30+ participants broke up into four different working groups to collaborate on the solutions identified by the DEI team:
+
 #### Eco-wide Coalition Building 
 Sub-group leader: Emma Bloksberg-Fireovid 
 
@@ -100,11 +101,11 @@ Having a voice is important but what matters the most is your voice be heard. Vo
 
 DEI will be part of the Open Source Sprint on September 23 and 24,2020
 We will also be hosting another mini-sprint on October 23,2020
-Join the Power of Us Hub group https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei
+Join the [Power of Us Hub group](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
 If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
 ### Project Resources 
-* Our notes and working documents can be found here: https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project
+* [Notes and working documents](https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project)
 
 
 ### Current Project Team
