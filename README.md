@@ -7,56 +7,52 @@ The DEI project is focused on increasing the diversity, equity and inclusion at 
 ### Project Vertical
 This project is for all verticals. Everyone is included!
 
-### Hub Group Link
-https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei
-
-### Current Project Team
-
-Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra
-* GitHub Scribe(s): Karen Fitton
-* List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra
 
 
-### Past Project Team Members
 
-Full Name               | Team Role      | Github Username | Sprint(s)
-------------            | -------------  | ------------- | -------------
-Brittany Daley          | Project Leader | [brittanydaley87](https://github.com/brittanydaley87) |Philadelphia 2019
-Charise Van Liew        | Project Leader | [Charise](https://github.com/charise)                 | Philadelphia 2019
-Michael Camilleri       | Project Leader | [mgcamilleri](https://github.com/mgcamilleri)         | Philadelphia 2019
-Karen Fitton            | Project Leader | [karenfitton](https://github.com/karenfitton)         | Philadelphia 2019
-Emma Bloksberg-Fireovid | Project Leader | [ebloks01](https://github.com/ebloks01)               | Philadelphia 2019
-Karene-Sean Hines       | Contributor    | [KareneHines](https://github.com/KareneHines)         | Philadelphia 2019
-Alexa Adams             | Contributor    | [alexasgotsaas](https://github.com/alexasgotsaas)     | Philadelphia 2019
-Tamika Holman-Ricks     | Contributor    | [Brownsuga417](https://github.com/Brownsuga417)       | Philadelphia 2019
-Sarah Joseph            | Contributor    | TBD                                                   | Philadelphia 2019
-Michael Kolodner        | Contributor    | [mkolodner](https://github.com/mkolodner)             | Philadelphia 2019
-
-### History
+### Brief History
 
 After noticing a lack of diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
 
+To see our Past work, click on Wiki above
 
 
 ### Project Vision
 
-We want to build a Diversity, Equality, Inclusive framework. There was clearly a lack of diversity in the room.
+The DEI Team fundamentally believes that Diversity, Equity, and Inclusion strengthen our community. To ensure that participants had an inclusive experience and that the work produced was impactful, 
 
-*   Who: People of color who are historically marginalized and are seeking a sustainable career in the Salesforce ecosystem.
-*   What: To be invited and on boarded (by Salesforce) into a welcoming space to build deep relationships and navigate the Salesforce ecosystem
+Our V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project or here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
 
-### Project Resources 
-* Our notes and working documents can be found here: https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project
-* We created a V2MOM (Vision, Values, Methods, Obstacles and Measures) here https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project or here https://docs.google.com/document/d/178h7Iua-MCbgxUCh5s2qCYQjCpOESWhMmXY3O7VhEt0/edit?pli=1
 
-old notes are here:
-[https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit](https://docs.google.com/document/d/1TwnFMaUVTfGXP60bNyosoBaQcyxPuv0qD5iB2F7wgeY/edit)
 
-### Current Project Team Accomplishments
+### Sprint Survey Results - Understanding our current reality and key takeaways
+When the DEI team formed in 2019, we set out to make Sprint events more diverse and inclusive spaces where talented and driven individuals could thrive regardless of socio-economic background. The urgency of the current moment means it’s all of our responsibility to examine all aspects of our personal and professional lives, including here within the Open Source Commons Community.
 
-On July 20,2020 the DEI team completed a mini-sprint.
-The DEI Team fundamentally believes that Diversity, Equity, and Inclusion strengthen our community. To ensure that participants had an inclusive experience and that the work produced was impactful, we designed the DEI Mini-Sprint around the four main themes:
+We understand that our diversity strengthens us. When people can fully be themselves, reflecting individual and collective experiences, backgrounds, characteristics, and influences, we all benefit. Diversity, Equity and Inclusion work is long term social change work, and it’s first step is understanding what is the current reality and what challenges need our attention now.
+
+During the March 2020 Virtual Sprint, the Diversity, Equity, and Inclusion (DEI) Sprint Team developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Team has collated the results to make recommendations to the Salesforce.org Open Source Commons Team on how to increase diverse, equitable, and inclusive participation in Sprints moving forward. 
+
+You can see the full report here DEI Sprint Team Project Update  https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view
+
+Key Takeaways
+
+1) Black Sprint participants did not feel represented.
+2) Once Black participants were engaged in the Sprint, their experience tracked similarly to the whole group: positively.
+3) There was a significant lack of participants who identify as LGBTQ+ and non-binary, non-gender confirming.
+4) Sprint participants were overwhelmingly white and female with 32% of participants identifying as straight, white women. 
+
+Based on these data-back takeaways, we recommend the following:
+
+Our findings show that the most effective ways to increase diverse, equitable, and inclusive participation in Sprints are to:
+
+1) Increase the number of diverse participants at the Sprint
+2) Equip and empower diverse participants to get the most out of the Sprint.
+
+We commend the Salesforce.org Open Source Commons Team for the intention and execution of creating a welcoming and inclusive Virtual Sprint, and we look forward to these recommendations being implemented in future Sprints. Thank you!
+
+### July 2020 Mini-Sprint
+
+We designed the DEI Mini-Sprint around the four main themes:
 
 Intentional transformation: Intentionally transforming the Sprint event into a space where anyone can show up as their fully authentic selves and thrive regardless of their socio-economic status.
 Reimagining what a Sprint project looks like: While most Sprint projects focus on the NPSP and EDA products this project is focused on how we can use the Sprint event to organize Salesforce and its external customers, partners, and consultants to serve the needs of marginalized groups within the Salesforce ecosystem.
@@ -103,37 +99,26 @@ Note societal contexts and privileges awareness for Salesforce.org when planning
 
 
 
-### Project Team Accomplishments (YTD)
-When the DEI team formed in 2019, we set out to make Sprint events more diverse and inclusive spaces where talented and driven individuals could thrive regardless of socio-economic background. The urgency of the current moment means it’s all of our responsibility to examine all aspects of our personal and professional lives, including here within the Open Source Commons Community.
-
-We understand that our diversity strengthens us. When people can fully be themselves, reflecting individual and collective experiences, backgrounds, characteristics, and influences, we all benefit. Diversity, Equity and Inclusion work is long term social change work, and it’s first step is understanding what is the current reality and what challenges need our attention now.
-
-During the March 2020 Virtual Sprint, the Diversity, Equity, and Inclusion (DEI) Sprint Team developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Team has collated the results to make recommendations to the Salesforce.org Open Source Commons Team on how to increase diverse, equitable, and inclusive participation in Sprints moving forward. 
-
-You can see the full report here DEI Sprint Team Project Update  https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view
-
-Key Takeaways
-
-1) Black Sprint participants did not feel represented.
-2) Once Black participants were engaged in the Sprint, their experience tracked similarly to the whole group: positively.
-3) There was a significant lack of participants who identify as LGBTQ+ and non-binary, non-gender confirming.
-4) Sprint participants were overwhelmingly white and female with 32% of participants identifying as straight, white women. 
-
-Based on these data-back takeaways, we recommend the following:
-
-Our findings show that the most effective ways to increase diverse, equitable, and inclusive participation in Sprints are to:
-
-1) Increase the number of diverse participants at the Sprint
-2) Equip and empower diverse participants to get the most out of the Sprint.
-
-We commend the Salesforce.org Open Source Commons Team for the intention and execution of creating a welcoming and inclusive Virtual Sprint, and we look forward to these recommendations being implemented in future Sprints. Thank you!
 
 
-### Future Contributions (AKA what were you unable to finish at the Sprint)
+### Join us!
 
 DEI will be part of the Open Source Sprint on September 23 and 24,2020
 We will also be hosting another mini-sprint on October 23,2020
+Join the Power of Us Hub group https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei
 If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
+
+### Project Resources 
+* Our notes and working documents can be found here: https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project
+
+
+### Current Project Team
+
+Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
+* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra
+* GitHub Scribe(s): Karen Fitton
+* List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra
+
 
 
 
