@@ -49,6 +49,8 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 ### July 2020 Mini-Sprint
 (Link to blog post when it is complete)
 
+The combination of the COVID-19 pandemic and the murder of George Floyd exposed the deadly consequences of global systemic racial inequality. From impacted communities reeling from generational trauma to allies feeling overwhelmed and unsure how to respond, the summer of 2020 has been a difficult time for everyone. Responding to the “Current Moment” with Equity and Compassion, the team designed our solutions by centering the needs of historically underserved and marginalized populations and identifying methods that could achieve maximum positive impact with the resources available to us.
+
 The DEI Mini-Sprint was designed around four main themes:
 
 - Intentional transformation: Intentionally transforming the Sprint event into a space where anyone can show up as their fully authentic selves and thrive regardless of their socio-economic status.
