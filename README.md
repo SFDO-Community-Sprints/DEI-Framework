@@ -22,6 +22,7 @@ We understand that our diversity strengthens us. When people can fully be themse
 Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM)
 
 [2020 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2020) _coming_
+
 [2021 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap-2021) _coming_
 
 
