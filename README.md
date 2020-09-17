@@ -53,7 +53,8 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 
 ### Join us!
 
-DEI will be part of the ####Open Source Sprint on September 23 and 24,2020####
+DEI will be part of the #### Open Source Sprint on September 23 and 24,2020
+What we will be doing at the Sprint:
 
 - Review intent, process, and results from the March Sprint Participant Survey
 - Review intent, process, and results from the Partner Survey
