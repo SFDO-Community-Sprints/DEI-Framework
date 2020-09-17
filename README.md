@@ -50,6 +50,20 @@ Our findings show that the most effective ways to increase diverse, equitable, a
 
 We commend the Salesforce.org Open Source Commons Team for the intention and execution of creating a welcoming and inclusive Virtual Sprint, and we look forward to these recommendations being implemented in future Sprints. Thank you!
 
+
+### Join us!
+
+DEI will be part of the ####Open Source Sprint on September 23 and 24,2020####
+
+- Review intent, process, and results from the March Sprint Participant Survey
+- Review intent, process, and results from the Partner Survey
+- Defining the intent and process for Customer Survey
+
+Join the [Power of Us Hub group](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
+If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
+
+
+
 ### July 2020 Mini-Sprint
 (Link to blog post when it is complete)
 
@@ -101,14 +115,6 @@ Having a voice is important but what matters the most is your voice be heard. Vo
 
 
 
-
-
-### Join us!
-
-DEI will be part of the Open Source Sprint on September 23 and 24,2020
-We will also be hosting another mini-sprint on October 23,2020
-Join the [Power of Us Hub group](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
-If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
 ### Project Resources 
 * [Notes and working documents](https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project)
