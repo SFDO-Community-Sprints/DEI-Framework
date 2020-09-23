@@ -53,13 +53,6 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 
 ### Join us!
 
-DEI will be part of the Open Source Sprint on September 23 and 24,2020
-What we will be doing at the Sprint:
-
-- Review intent, process, and results from the March Sprint Participant Survey
-- Review intent, process, and results from the Partner Survey
-- Defining the intent and process for Customer Survey
-
 Join the [Power of Us Hub group](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
 If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
@@ -67,12 +60,18 @@ If you’re interested in contributing to the Open Source Commons Community DEI 
 
 ### September 2020 Sprint
 
-Goals: 
+What we are working on: 
 
-- Complete the Partner Survey. This survey is in collobration with Amplify. It will be initially distributed at the Salesforce.org Partner Summit on Oct 6. It will also be distributed to the broader community.
+#### Partner Survey
+
+This survey is in collobration with Amplify. It will be initially distributed at the Salesforce.org Partner Summit on Oct 6. It will also be distributed to the broader community. We are reviewing the questions, putting finishing touches on and any final questions.
+
+#### Sprint Participant Survey
 
 
-- Revisit the Sprint Participant Survey
+#### Customer Survey
+
+
 
 ### July 2020 Mini-Sprint
 (Link to blog post when it is complete)
