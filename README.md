@@ -64,12 +64,19 @@ What we are working on:
 
 #### Partner Survey
 
-This survey is in collobration with Amplify. It will be initially distributed at the Salesforce.org Partner Summit on Oct 6. It will also be distributed to the broader community. We are reviewing the questions, putting finishing touches on and any final questions.
+This survey is in collobration with Amplify. It will be initially distributed at the Salesforce.org Partner Summit on Oct 6. It will also be distributed to the broader community. 
+
+- Completed the review of the questions.
+- Going through outstanding questions about the survey in the second half of the morning.
 
 #### Sprint Participant Survey
 
 
 #### Customer Survey
+
+
+#### Sprint Participants: 
+Melissa Hill Dees, Karen Fitton, Doug Contaoi, Florence Parodi, Anika Keswani, Meredith Navabi, Grace Kim, Cheryl Curry, Michelle Cammaressi, Akash Mishra
 
 
 
