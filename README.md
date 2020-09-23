@@ -66,10 +66,10 @@ What we are working on:
 
 This survey is in collobration with Amplify. It will be initially distributed at the Salesforce.org Partner Summit on Oct 6. It will also be distributed to the broader community. 
 
-- Completed the review of the questions.
+- Completed the review of the [questions.](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Partner-Survey-Questions)
 - Going through outstanding questions about the survey in the second half of the morning.
 
-#### Sprint Participant Survey
+#### [Sprint Participant Survey](https://www.getfeedback.com/r/W9GKKIbj)
 
 
 #### Customer Survey
