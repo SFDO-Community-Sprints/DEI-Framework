@@ -75,6 +75,11 @@ This survey is in collobration with Amplify. It will be initially distributed at
 #### Customer Survey
 
 
+#### Where we need help:
+
+ - Translation of the survey. If you can volunteer to translate or know someone that can let us know.
+ - Marketing folks or folks interested in Marketing to help promote the survey.
+
 #### Sprint Participants: 
 Melissa Hill Dees, Karen Fitton, Doug Contaoi, Florence Parodi, Anika Keswani, Meredith Navabi, Grace Kim, Cheryl Curry, Michelle Cammaressi, Akash Mishra
 
