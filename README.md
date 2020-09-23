@@ -65,6 +65,15 @@ If you’re interested in contributing to the Open Source Commons Community DEI 
 
 
 
+### September 2020 Sprint
+
+Goals: 
+
+- Complete the Partner Survey. This survey is in collobration with Amplify. It will be initially distributed at the Salesforce.org Partner Summit on Oct 6. It will also be distributed to the broader community.
+
+
+- Revisit the Sprint Participant Survey
+
 ### July 2020 Mini-Sprint
 (Link to blog post when it is complete)
 
