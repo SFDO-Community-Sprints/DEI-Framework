@@ -70,7 +70,7 @@ This survey is in collobration with Amplify. It will be initially distributed at
 
 #### Customer Survey
 
- - We are working on this on Day 2 of the Sprint. 
+ - We are working on this on Day 2 of the Sprint. Defining the purpose and what should be included in the survey.
  
 
 #### [Sprint Participant Survey](https://www.getfeedback.com/r/W9GKKIbj)
