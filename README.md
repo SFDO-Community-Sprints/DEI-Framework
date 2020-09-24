@@ -79,7 +79,8 @@ This survey is in collobration with Amplify. It will be initially distributed at
 #### Where we need help:
 
  - Translation of the survey. If you can volunteer to translate or know someone that can let us know.
- - Marketing folks or folks interested in Marketing to help promote the survey.
+ - Marketing folks or folks interested in Marketing to help promote the Partner survey.
+ - Stories of “Why We Sprint” in videos or blog posts.
 
 
 #### Sprint Participants: 
