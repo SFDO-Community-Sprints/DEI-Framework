@@ -80,7 +80,7 @@ This survey is in collobration with Amplify. It will be initially distributed at
 
  - Translation of the survey. If you can volunteer to translate or know someone that can let us know.
  - Marketing folks or folks interested in Marketing to help promote the survey.
- - Create a video for "Why I Sprint" (more details to come)
+
 
 #### Sprint Participants: 
 Melissa Hill Dees, Karen Fitton, Doug Contaoi, Florence Parodi, Anika Keswani, Meredith Navabi, Grace Kim, Cheryl Curry, Michelle Cammaressi, Akash Mishra
