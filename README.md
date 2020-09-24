@@ -73,7 +73,7 @@ This survey is in collobration with Amplify. It will be initially distributed at
  - We are working on this on Day 2 of the Sprint. Defining the purpose and what should be included in the survey.
  
 
-#### [Sprint Participant Survey](https://www.getfeedback.com/r/W9GKKIbj)
+#### [Sprint Participant Survey](https://www.getfeedback.com/r/W9GKKIbj) Please complete this if you participated in the Sprint.
 
 
 #### Where we need help:
