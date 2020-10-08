@@ -53,6 +53,22 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 
 ### Join us!
 
+
+### [October 23rd Mini-Sprint}(https://www.eventbrite.com/e/salesforceorg-diversity-equity-and-inclusion-mini-sprint-october-2020-registration-122580436385)
+ 
+Join us at a one day Sprint (mini-Sprint) on October 23rd.[Register here](https://www.eventbrite.com/e/salesforceorg-diversity-equity-and-inclusion-mini-sprint-october-2020-registration-122580436385)
+
+Goals:
+
+- We will finalize the customer survey and start translating the partner survey (Spanish, French, German, Hebrew, Japanese, Dutch) Charise*
+
+- The eco-wide coalition sub-group will share out feedback from the beta group, the call script will be updated and we will create a project plan to complete interviews of DEI leaders in the Salesforce ecosystem Emma*
+
+- We will review, analyze, and collate results from September Sprint Survey into a Recommendations Document for the Open Source Commons Team Akash*
+
+- Create a DEI marketing plan for the next NPSP Virtual Sprint: posts for LinkedIn, Twitter, Power of Us Hub, email blast, etc.
+
+### Power of Us Hub 
 Join the [Power of Us Hub group](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
 If you’re interested in contributing to the Open Source Commons Community DEI efforts, contact bdaley@daleyworks.com.
 
