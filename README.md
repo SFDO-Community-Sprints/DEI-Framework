@@ -164,7 +164,7 @@ Having a voice is important but what matters the most is your voice be heard. Vo
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
 * Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra
 * GitHub Scribe(s): Karen Fitton
-* List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra
+* List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra, Sarah Jo Stern
 
 
 
