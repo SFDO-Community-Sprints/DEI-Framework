@@ -64,9 +64,11 @@ Goals:
 
 - The eco-wide coalition sub-group will share out feedback from the beta group, the call script will be updated and we will create a project plan to complete interviews of DEI leaders in the Salesforce ecosystem Emma*
 
-- We will review, analyze, and collate results from September Sprint Survey into a Recommendations Document for the Open Source Commons Team Akash*
+- We may review, analyze, and collate results from September Sprint Survey into a Recommendations Document for the Open Source Commons Team Akash* and Charise*
 
-- Create a DEI marketing plan for the next NPSP Virtual Sprint: posts for LinkedIn, Twitter, Power of Us Hub, email blast, etc.
+- We may discuss next steps with International sprint programming and inclusion Akash*
+
+- Create a DEI marketing plan for the next NPSP Virtual Sprint: posts for LinkedIn, Twitter, Power of Us Hub, email blast, etc. All
 
 ### Power of Us Hub 
 Join the [Power of Us Hub group](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
