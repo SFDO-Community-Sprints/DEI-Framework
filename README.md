@@ -32,7 +32,7 @@ Diversity, Equity and Inclusion work is long term social change work, and it’s
 
 During the March 2020 Virtual Sprint, the Diversity, Equity, and Inclusion (DEI) Sprint Team developed a survey to understand the experiences of those who participated in the Virtual Sprint. The DEI Team has collated the results to make recommendations to the Salesforce.org Open Source Commons Team on how to increase diverse, equitable, and inclusive participation in Sprints moving forward. 
 
-[Complete DEI Sprint Team Project Updates](https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view)
+[Analysis of Results of March 2020 Survey](https://drive.google.com/file/d/1DHMRS7ZV90G5Y544aPm8NyQvjsZyM1Q6/view)
 
 #### Key Takeaways
 
@@ -164,7 +164,7 @@ Having a voice is important but what matters the most is your voice be heard. Vo
 ### Current Project Team
 
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra
+* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra, Sarah Pilzer
 * GitHub Scribe(s): Karen Fitton
 * List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra, Sarah Jo Stern
 
