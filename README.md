@@ -10,8 +10,6 @@ This project is for all verticals. Everyone is included!
 
 After noticing a lack of diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
 
-[Roadmap of work in 2019](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2019)
-
 
 ### Project Vision
 
@@ -21,9 +19,8 @@ We understand that our diversity strengthens us. When people can fully be themse
 
 Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM)
 
+### What we've been up to
 [2019 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2019) | [2020 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2020) | [2021 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap-2021) _in development_
-
-
 
 ### Understanding our current reality and key takeaways
 Diversity, Equity and Inclusion work is long term social change work, and it’s first step is understanding what is the current reality and what challenges need our attention now.
