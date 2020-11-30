@@ -1,3 +1,4 @@
+![alt text](https://github.com/SFDO-Community-Sprints/DEI-Framework/blob/master/Diversity-Equity-Inclusion-Badge-fv01.png?raw=true)
 ### Diversity, Equity, and Inclusion Framework
 
 Welcome!
