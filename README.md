@@ -22,7 +22,7 @@ Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com
 ### What we've been up to
 [2019 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2019) | [2020 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2020) | [2021 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap-2021) _in development_
 
-### Sprint Log
+[Sprint Log](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Sprint-Log)
 
 ### Understanding our current reality and key takeaways
 Diversity, Equity and Inclusion work is long term social change work, and it’s first step is understanding what is the current reality and what challenges need our attention now.
@@ -49,7 +49,7 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 
 
 ### Join us!
-
+Join our group discussion in the Power of Us Hub [here](https://powerofus.force.com/s/group/0F91E000000bo84SAA/diversity-equity-and-inclusion-dei)
 
 ### Project Resources 
 * [Notes and working documents](https://salesforce.quip.com/i/RFfARABPOnG/dei-sprint-project)
