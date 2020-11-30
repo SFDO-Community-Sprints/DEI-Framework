@@ -59,7 +59,7 @@ Join our group discussion in the Power of Us Hub [here](https://powerofus.force.
 
 * Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra, Sarah Pilzer
 * GitHub Scribe(s): Karen Fitton
-* List of all Contributors: Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Deja Newland, Erin Semagin Damio, Emily Gonzales, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Karen Fitton, Lucy Middleton, Makeda Keegan, Marisa Lopez, Meredith Nabavi, Mica Hashimoto, Micah Adler, Mike Camilleri, Ryan Blake, Sara Chieco, Simone Carvalho, Sushil Raj, Melissa Hill Dees, Damian Le Brocque, Judi Sohn, Mary Scotton, Akash Mishra, Sarah Jo Stern, Quratulain Tariq
+* List of all Contributors:  Akash Mishra, Alexa Adams, Amy Bucciferro, Ash Allen, Brittany Daley, Cassie Supilowski, Charise Van Liew, Cheryl Curry, Cori O'Brien, Damian Le Brocque, Deja Newland, Erin Semagin Damio, Emily Gonzales, Emma Bloksberg-Fireovid, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Judi Sohn, Karen Fitton, Karene-Sean Hines, Lucy Middleton, Makeda Keegan, Marisa Lopez, Mary Scotton, Melissa Hill Dees, Meredith Nabavi, Mica Hashimoto, Micah Adler, Michael Kolodner, Mike Camilleri,  Quratulain Tariq, Ryan Blake, Sara Chieco, Sarah Jo Stern, Sarah Pilzer, Simone Carvalho, Sushil Raj, Tamika Homan-Ricks 
 
 
 
