@@ -49,7 +49,7 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 ### Join us!
 
 
-### [October 23rd Mini-Sprint}(https://www.eventbrite.com/e/salesforceorg-diversity-equity-and-inclusion-mini-sprint-october-2020-registration-122580436385)
+### [October 23rd Mini-Sprint](https://www.eventbrite.com/e/salesforceorg-diversity-equity-and-inclusion-mini-sprint-october-2020-registration-122580436385)
  
 Join us at a one day Sprint (mini-Sprint) on October 23rd.[Register here](https://www.eventbrite.com/e/salesforceorg-diversity-equity-and-inclusion-mini-sprint-october-2020-registration-122580436385)
 
@@ -101,7 +101,6 @@ Melissa Hill Dees, Karen Fitton, Doug Contaoi, Florence Parodi, Anika Keswani, M
 
 
 ### July 2020 Mini-Sprint
-(Link to blog post when it is complete)
 
 The combination of the COVID-19 pandemic and the murder of George Floyd exposed the deadly consequences of global systemic racial inequality. From impacted communities reeling from generational trauma to allies feeling overwhelmed and unsure how to respond, the summer of 2020 has been a difficult time for everyone. Responding to the “Current Moment” with Equity and Compassion, the team designed our solutions by centering the needs of historically underserved and marginalized populations and identifying methods that could achieve maximum positive impact with the resources available to us.
 
