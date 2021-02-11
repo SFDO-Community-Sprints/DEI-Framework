@@ -9,16 +9,15 @@ This project is for all verticals. Everyone is included!
 
 ### Brief History
 
-After noticing a lack of diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
+After noticing a lackof diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
 
 
 ### Project Vision
 
-The DEI Team fundamentally believes that Diversity, Equity, and Inclusion strengthen our community. When the DEI team formed in 2019, we set out to make Sprint events more diverse and inclusive spaces where talented and driven individuals could thrive regardless of socio-economic background. The urgency of the current moment means it’s all of our responsibility to examine all aspects of our personal and professional lives, including here within the Open Source Commons Community.
+Our vision is that Salesforce and community leaders create diverse, equitable, and inclusive spaces. We create community-based, free, and open source tools to identify and remove barriers and empower people from marginalized groups to show up and participate as their full authentic selves.
 
-We understand that our diversity strengthens us. When people can fully be themselves, reflecting individual and collective experiences, backgrounds, characteristics, and influences, we all benefit
 
-Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM)
+Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - needs updating
 
 ### What we've been up to
 [2021 February Sprint](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/2021-February-Sprint)
@@ -30,6 +29,8 @@ Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com
 [2019 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2019)
 
 [Sprint Log](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Sprint-Log)
+
+[Artifact Document](https://biggerboat.quip.com/SG2AAjuXMxrx/-DEI-Artifact) This is the place to find all things 
 
 ### Understanding our current reality and key takeaways
 Diversity, Equity and Inclusion work is long term social change work, and it’s first step is understanding what is the current reality and what challenges need our attention now.
