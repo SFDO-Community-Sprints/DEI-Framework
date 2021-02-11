@@ -24,7 +24,9 @@ Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com
 [2021 February Sprint](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/2021-February-Sprint)
 
 [2021 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap-2021) _in development_
+
 [2020 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2020) 
+
 [2019 Roadmap](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Roadmap---2019)
 
 [Sprint Log](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/Sprint-Log)
