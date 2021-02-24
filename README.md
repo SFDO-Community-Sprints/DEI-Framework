@@ -3,21 +3,18 @@
 
 Welcome!
 
-The DEI project is focused on increasing the diversity, equity and inclusion at the Sprints.
+The DEI project is focused on increasing the diversity, equity and inclusion at the Sprints and beyond.
 This project is for all verticals. Everyone is included!
-
-
-### Brief History
-
-After noticing a lackof diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
-
 
 ### Project Vision
 
 Our vision is that Salesforce and community leaders create diverse, equitable, and inclusive spaces. We create community-based, free, and open source tools to identify and remove barriers and empower people from marginalized groups to show up and participate as their full authentic selves.
 
+Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - is in the process of being updated.
 
-Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - needs updating
+### Brief History
+
+After noticing a lackof diversity in the room at the 2019 Philly Open Source Community Sprint, a group of customers and partners formed a project team to address systemic Diversity, Equity, and Inclusion issues within the Salesforce ecosystem/economy. The team set out with the goal to identify, mitigate, and dismantle structural barriers that have barred people from marginalized communities from entry to the Sprint events and the broader Salesforce ecosystem.
 
 ### What we've been up to
 [2021 February Sprint](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/2021-February-Sprint)
