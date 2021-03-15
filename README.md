@@ -62,8 +62,10 @@ Join our group discussion in the Power of Us Hub [here](https://powerofus.force.
 
 ### Current Project Team
 
-* Team Leader(s): Brittany Daley, Emma Bloksberg-Fireovid, Melissa Hill Dees, Charise Van Liew, Akash Mishra, Sarah Pilzer
-* GitHub Scribe(s): Karen Fitton
+* Team Leaders: Akash Mishra, Charise Van Liew, Grace Kim, Karmel James, Kristin Medlin, Melissa Hill Dees, Sarah Pilzer, Tasha Rucker, Yvonne Byars
+* GitHub Scribes: Karen Fitton, Charise Van Liew
+* Founder and Strategic Advisor: Brittany Daley
+* Former Team Leaders: Emma Bloksberg-Fireovid (Fall 2019 - Spring 2021), Karene-Sean Hines (Fall 2019 - Spring 2020), Michael Kolodner (Fall 2019 - Fall 2020)
 * List of all Contributors:  Akash Mishra, Alexa Adams, Amy Bucciferro, Ash Allen, Brit Duhrkoff, Brittany Daley, Cassie Supilowski, Caitlin Thomas, Charise Van Liew, Cheryl Curry, Cori O'Brien, Damian Le Brocque, Deja Newland, Doug Contaoi, Erin Semagin Damio, Emily Gonzales, Emma Bloksberg-Fireovid, Esha Garg, Grace Kim, Jace Bryan, Jon Varese, Joni Bryan, Judi Sohn, Karen Fitton, Karene-Sean Hines, Karuna Tayal, Lucy Middleton, Makeda Keegan, Marisa Lopez, Mary Scotton, Mayank Soni, Melinda Smith, Melissa Hill Dees, Meredith Nabavi, Mica Hashimoto, Micah Adler, Michael Kolodner, Mike Camilleri, Payal Loungani, Quratulain Tariq, Rubin Singh, Ryan Blake, Sara Chieco, Sarah Jo Stern, Sarah Pilzer, Shivanand Totar, Simone Carvalho, Sushil Raj, Tamika Homan-Ricks 
 
 
