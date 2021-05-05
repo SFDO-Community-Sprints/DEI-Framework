@@ -1,7 +1,7 @@
 ![alt text](https://github.com/SFDO-Community-Sprints/DEI-Framework/blob/master/Diversity-Equity-Inclusion-Badge-fv01.png?raw=true)
 ### Diversity, Equity, and Inclusion Framework
 
-Welcome!
+Welcome! Join our mini sprint on Friday May 7th 12pm ET! [Register here](https://salesforce.zoom.us/meeting/register/tZEpdOisrj4iH9Ed4Q_5SCKnwgStLCF1AAcs)
 
 The DEI project is focused on increasing the diversity, equity and inclusion at the Sprints and beyond.
 This project is for all verticals. Everyone is included!
@@ -10,7 +10,7 @@ This project is for all verticals. Everyone is included!
 
 Our vision is that Salesforce and community leaders create diverse, equitable, and inclusive spaces. We create community-based, free, and open source tools to identify and remove barriers and empower people from marginalized groups to show up and participate as their full authentic selves.
 
-Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - is in the process of being updated.
+Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - we are working to update this at the May 2021 sprint
 
 ### Brief History
 
