@@ -18,7 +18,7 @@ This project is for all verticals. Everyone is included!
 
 Our vision is that Salesforce and community leaders create diverse, equitable, and inclusive spaces. We create community-based, free, and open source tools to identify and remove barriers and empower people from marginalized groups to show up and participate as their full authentic selves.
 
-Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - we are working to update this at the May 2021 sprint
+Our [V2MOM (Vision, Values, Methods, Obstacles and Measures)](https://github.com/SFDO-Community-Sprints/DEI-Framework/wiki/DEI-V2MOM) - this is being updated
 
 ### Brief History
 
