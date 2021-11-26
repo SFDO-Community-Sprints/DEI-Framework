@@ -62,7 +62,8 @@ Join our group discussion in the Power of Us Hub [here](https://powerofus.force.
 
 ### Current Project Team
 
-* Team Leaders: Akash Mishra, Charise Van Liew, Grace Kim, Karmel James, Kristin Medlin, Melissa Hill Dees, Sarah Pilzer, Tasha Rucker, Yvonne Byars
+* Team Leaders: Charise Van Liew, Grace Kim, Sarah Pilzer, Sindhuja Ram
+* Regular subgroup contributors: Brie Kramer, Brooke Petit, Christopher Littlefield, Dar Veverka, Eric Steeves, John Sim, Jung Mun, Karmel James, Kristin Medlin, Makeda Keegan, Tasha Rucker, Yvonne Byars
 * GitHub Scribes: Karen Fitton, Charise Van Liew
 * Founder and Strategic Advisor: Brittany Daley
 * Former Team Leaders: Emma Bloksberg-Fireovid (Fall 2019 - Spring 2021), Karene-Sean Hines (Fall 2019 - Spring 2020)
